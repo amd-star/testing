@@ -13,7 +13,7 @@ const AboutMe = () => {
       <div className="space-y-6">
         <div className="bg-white/90 p-6 rounded-xl shadow-lg backdrop-blur-sm border border-gray-100 hover:shadow-xl transition-shadow duration-300">
           <p className="text-lg text-gray-800 leading-relaxed">
-            <span className="text-blue-500 font-medium">Hey!</span> I'm a junior web developer building some dope stuff online. 
+            <span className="text-blue-500 font-medium">Hey!</span> I'm Axel Dominguez, a junior web developer building some dope stuff online. 
             I know <span className="font-semibold text-gray-900">HTML, CSS,</span> and <span className="font-semibold text-gray-900">JavaScript</span>, 
             and I've been learning <span className="font-semibold text-gray-900">React</span> and <span className="font-semibold text-gray-900">Tailwind</span> too.
           </p>
